@@ -21,7 +21,7 @@ This project involves setting up a *cloud server (EC2)* and installing monitorin
 - Security best practices in cloud infrastructure
 
 ## 📸 Screenshots
-> Add a few screenshots here (optional)
+> CLOUD MONITORING PROJECT SCREENSHOT.png
 
 ---
 
