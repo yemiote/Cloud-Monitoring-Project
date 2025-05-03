@@ -21,7 +21,7 @@ This project involves setting up a *cloud server (EC2)* and installing monitorin
 - Security best practices in cloud infrastructure
 
 ## 📸 Screenshots
-> CLOUD MONITORING PROJECT SCREENSHOT.png
+> https://github.com/yemiote/Cloud-Monitoring-Project/blob/main/CLOUD%20MONITORING%20PROJECT%20SCREENSHOT.png
 
 ---
 
